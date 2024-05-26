@@ -1,3 +1,4 @@
 Apenas um teste de repositório.
 Teste 2!
 Testando mudança de branch.
+Teste 3!
